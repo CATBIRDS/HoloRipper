@@ -1,10 +1,10 @@
 # HoloRipper
 
-Holoripper is a Python script for scraping YouTube's pages for data about specific channels' streams.
+HoloRipper is a Python script for scraping YouTube's pages for data about specific channels' streams.
 
 For a given channel, HoloRipper will grab its live streaming status, as well as a list of any upcoming streams, including a standardized UTC timestamp of their listed start time. These streams will be organized and stored into a generated .json file. It can also download profile images for channels.
 
-Holoripper can be seen in use [here](https://catbird.club/holotracker), where it serves as the server-side script to generate up-to-date tracking data. 
+HoloRipper can be seen in use [here](https://catbird.club/holotracker), where it serves as the server-side script to generate up-to-date tracking data. 
 
 ## Installation
 
