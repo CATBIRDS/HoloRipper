@@ -1,5 +1,11 @@
 # HoloRipper
 
+## NOTE: DEPRECATED
+
+Please note that as time has gone on, Google has repeatedly modified its webpages to mitigate scraping. While in the past I have had the time and will to keep up with these changes, my priorities have shifted and this code (while still accessible for whoever cares) no longer functions. I have no plans of updating it as of this moment.
+
+<br/>
+
 HoloRipper is a Python script for scraping YouTube's pages for data about specific channels' streams.
 
 For a given channel, HoloRipper will grab its live streaming status, as well as a list of any upcoming streams, including a standardized UTC timestamp of their listed start time. These streams will be organized and stored into a generated .json file. It can also download profile images for channels.
